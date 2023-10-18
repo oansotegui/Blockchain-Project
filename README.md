@@ -1,4 +1,4 @@
-# IEBIS-Blockchain-Engineering-Project
+# IEBIS-Blockchain-Engineering-Project // [1] Truffle Project
 
 Este repositorio contiene el proyecto Truffle del trabajo de Ethereum Blockchain Engineering de IEBIS.
 
