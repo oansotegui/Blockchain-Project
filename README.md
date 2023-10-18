@@ -1,4 +1,4 @@
-# IEBIS-Blockchain-Engineering-Project // [1] Truffle Project
+# IEBIS-Blockchain-Engineering-Project (Ethereum) // [1] Truffle Project
 
 Este repositorio contiene el proyecto Truffle del trabajo de Ethereum Blockchain Engineering de IEBIS.
 
@@ -14,7 +14,7 @@ Este repositorio contiene el proyecto Truffle del trabajo de Ethereum Blockchain
 Clona el repositorio y navega al directorio del proyecto:
 
 ```bash
-git clone https://github.com/oansotegui/Blockchain-Project.git
+git clone https://github.com/oansotegui/IEBIS-Etehrerum-Project-Contract.git
 cd Blockchain-Project
 ```
 
